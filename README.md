@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hello there
 
-<!--
-**ToasterOpera/ToasterOpera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer with 12 years of non-professional experience, looking to lose the "non".
 
-Here are some ideas to get you started:
+## Languages:
+### General:
+✔️ Java<br/>
+✔️ Kotlin<br/>
+✔️ C<br/>
+✔️ C++<br/>
+✔️ C#<br/>
+✔️ Shakespeare<br/>
+✔️ Python
+### Web:
+✔️ Html<br/>
+✔️ CSS<br/>
+✔️ Javascript<br/>
+✔️ PHP<br/>
+✔️ JSON<br/>
+⋯ Learning SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Software Experience:
+✔️ Android Studio<br/>
+✔️ Unity 2019<br/>
+✔️ Git<br/>
+✔️ Github<br/>
+✔️ Remote Access (experience with Putty and MobaXterm, willing to learn others)<br/>
+✔️ Visual Studio Code<br/>
+✔️ Intellij IDEA<br/>
+✔️ Eclipse<br/>
+✔️ jGRASP<br/>
+
+### Other Skills
+✔️ Able and willing to quickly learn any other Software, Language, or other skill<br/>
+✔️ Works well in groups<br/>
+✔️ Able to work remotely or in person<br/>
+✔️ Able to follow both standard code formatting practices and specific ones set by a company or for a specific project.<br/>
+✔️ Experience effectively meeting deadlines<br/>
