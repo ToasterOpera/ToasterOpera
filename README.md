@@ -19,7 +19,7 @@ Software developer with 12 years of non-professional experience, looking to lose
 ✔️ JSON<br/>
 ⋯ Learning SQL
 
-### Software Experience:
+## Software Experience:
 ✔️ Android Studio<br/>
 ✔️ Unity 2019<br/>
 ✔️ Git<br/>
@@ -30,7 +30,7 @@ Software developer with 12 years of non-professional experience, looking to lose
 ✔️ Eclipse<br/>
 ✔️ jGRASP<br/>
 
-### Other Skills
+## Other Skills
 ✔️ Able and willing to quickly learn any other Software, Language, or other skill<br/>
 ✔️ Works well in groups<br/>
 ✔️ Able to work remotely or in person<br/>
